@@ -8,7 +8,7 @@
 <ul>
   <li>✨ My name is Marina and I'm brazilian.</li>
   
-  <li>👨‍💻 I have started my career transition this year, getting out of Architecture.</li>
+  <li>👨‍💻 I have started my career transition this year to became a front-end developer.</li>
   
   <li>🔭 I have strong aptitude for disciplined problem-solving, work in group and communication skills.  
    
